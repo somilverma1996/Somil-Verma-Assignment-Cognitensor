@@ -1,0 +1,31 @@
+{
+    "userData": [
+        {
+            "name": "abc", "age": 12, "type": "lead", "joiningMonth": "04", "division": "Sales"
+        },
+        {
+            "name": "abc", "age": 13, "type": "manager", "joiningMonth": "03", "division": "Sales"
+        },
+        {
+            "name": "abc", "age": 11, "type": "lead", "joiningMonth": "04", "division": "IT"
+        },
+        {
+            "name": "abc", "age": 30, "type": "manager", "joiningMonth": "05", "division": "Sales"
+        },
+        {
+            "name": "abc", "age": 12, "type": "lead", "joiningMonth": "05", "division": "IT"
+        },
+        {
+            "name": "abc", "age": 13, "type": "manager", "joiningMonth": "04", "division": "Sales"
+        },
+        {
+            "name": "abc", "age": 12, "type": "manager", "joiningMonth": "12", "division": "Accounts"
+        },
+        {
+            "name": "abc", "age": 22, "type": "manager", "joiningMonth": "04", "division": "Sales"
+        },
+        {
+            "name": "abc", "age": 12, "type": "lead", "joiningMonth": "04", "division": "Accounts"
+        }
+    ]
+}
